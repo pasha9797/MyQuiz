@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="quest_end_text">Quest finished, Your score is </string>
+</resources>
